@@ -1,0 +1,14 @@
+# Example config
+[[intervals]]
+name = "20-20-20 Rule"
+interval = "20m"
+pause = "20s"
+title = "Take a break"
+text = "Your eyes <b>need to rest</b>. \nLook at the object at a distance of <b>at least 6 meters</b>, within <b>20 seconds</b>"
+
+[[intervals]]
+name = "DeskTime"
+interval = "52m"
+pause = "17m"
+title = "Take a long break"
+text = "Take a long break (17s minutes)"
