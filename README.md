@@ -1,5 +1,5 @@
 # ChronoShift
- Simple utility for linux for scheduling notifications using "nonify-send"
+ Simple utility for linux for scheduling notifications using "nonify-send".
  Read connfig file from `~/.config/chronoshift/config.toml` by default or from first command line argument
 
 # Usage
